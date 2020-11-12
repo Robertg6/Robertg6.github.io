@@ -1,3 +1,4 @@
+var buttons = document.getElementsByClassName('colourButton');
 var heading;
 heading = document.getElementById('colourValue');
 heading.innerHTML = 'Hello world!';
