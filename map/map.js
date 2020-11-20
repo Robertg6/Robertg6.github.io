@@ -44,4 +44,4 @@ function precarica( img ) {
 			$('.title-pink').mouseover( function(){
 				$("#map").attr('src', 'http://www.sarabianchi.it/code-images/mappa-interattiva/img/map-pink.png');
 			});	
-		});		
+		});					
