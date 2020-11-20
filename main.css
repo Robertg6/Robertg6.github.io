@@ -4,6 +4,10 @@ body {
 	font-family: 'Charcoal', sans-serif;
 }
 
+#lolcatImage {
+  max-width:30em
+}
+
 ul {
   font-family: monospace;
 }
