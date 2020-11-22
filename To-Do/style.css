@@ -1,5 +1,5 @@
 body {
-	background: #FBD1A2;
+	background: #FFC800;
 	text-align: center;
 	font-family: 'Charcoal', sans-serif;
 }
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-	color: #F79256;
+	color: #FF8427;
 	text-transform: uppercase;
 	font-weight: 800000;
 }
@@ -21,16 +21,16 @@ p {
 
 #first {
 	margin-top: 10px;
-	color: #1D4E89;
+	color: #FF8427;
 }
 
 #second {
-	color: #00B2CA;
+	color: #FF8427;
 
 }
 
 #third {
-	color: #7DCFB6;
+	color: #FF8427;
 	margin-bottom: 30px;
 }
 /* Add a black background color to the top navigation */
@@ -42,7 +42,7 @@ p {
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #FFFFFF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -57,7 +57,7 @@ p {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #1E212B;
   color: white;
 }
 
