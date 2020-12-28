@@ -72,7 +72,7 @@ li {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #FFC800;
+  background-color: #343434;
   overflow: hidden;
 }
 
@@ -88,7 +88,7 @@ li {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #FFFFFF;
   color: black;
 }
 
