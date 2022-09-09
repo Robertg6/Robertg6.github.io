@@ -1,8 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) no-repeat;
-  background-size: cover;
+  
 }
 .box{
   width: 450px;
