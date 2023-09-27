@@ -100,7 +100,6 @@ li {
 /*Class to center an element
 .center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 50%;
 }
